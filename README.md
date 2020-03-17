@@ -9,7 +9,7 @@ after that open you browser and open 2 tabs.
 
 At the 2 tabs tap at the searchbar:
 
-localhost:3000
+>localhost:3000
 
 Refresh the 2 tabs.
 And have FUN.
